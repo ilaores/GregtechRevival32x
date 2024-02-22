@@ -1,0 +1,401 @@
+{
+  "tick.forge_hammer": {
+    "subtitle" : "gregtech.subtitle.tick.forge_hammer",
+    "category": "block",
+    "sounds": [
+      {
+        "name": "gregtech:forge_hammer",
+        "stream": false
+      }
+    ]
+  },
+  "tick.macerator": {
+    "subtitle" : "gregtech.subtitle.tick.macerator",
+    "category": "block",
+    "sounds": [
+      {
+        "name": "gregtech:macerator",
+        "stream": false
+      }
+    ]
+  },
+  "tick.chemical_reactor": {
+    "subtitle" : "gregtech.subtitle.tick.chemical_reactor",
+    "category": "block",
+    "sounds": [
+      {
+        "name": "gregtech:chemical",
+        "stream": false
+      }
+    ]
+  },
+  "tick.assembler": {
+    "subtitle" : "gregtech.subtitle.tick.assembler",
+    "category": "block",
+    "sounds": [
+      {
+        "name": "gregtech:assembler",
+        "stream": false
+      }
+    ]
+  },
+  "tick.centrifuge": {
+    "subtitle" : "gregtech.subtitle.tick.centrifuge",
+    "category": "block",
+    "sounds": [
+      {
+        "name": "gregtech:centrifuge",
+        "stream": false
+      }
+    ]
+  },
+  "tick.compressor": {
+    "subtitle" : "gregtech.subtitle.tick.compressor",
+    "category": "block",
+    "sounds": [
+      {
+        "name": "gregtech:compressor",
+        "stream": false
+      }
+    ]
+  },
+  "tick.electrolyzer": {
+    "subtitle" : "gregtech.subtitle.tick.electrolyzer",
+    "category": "block",
+    "sounds": [
+      {
+        "name": "gregtech:electrolyzer",
+        "stream": false
+      }
+    ]
+  },
+  "tick.mixer": {
+    "subtitle" : "gregtech.subtitle.tick.mixer",
+    "category": "block",
+    "sounds": [
+      {
+        "name": "gregtech:mixer",
+        "stream": false
+      }
+    ]
+  },
+  "tick.replicator": {
+    "subtitle" : "gregtech.subtitle.tick.replicator",
+    "category": "block",
+    "sounds": [
+      {
+        "name": "gregtech:replicator",
+        "stream": false
+      }
+    ]
+  },
+  "tick.arc": {
+    "subtitle" : "gregtech.subtitle.tick.arc",
+    "category": "block",
+    "sounds": [
+      {
+        "name": "gregtech:hum",
+        "stream": false
+      }
+    ]
+  },
+  "tick.boiler": {
+    "subtitle" : "gregtech.subtitle.tick.boiler",
+    "category": "block",
+    "sounds": [
+      {
+        "name": "gregtech:boiling",
+        "stream": false
+      }
+    ]
+  },
+  "tick.furnace": {
+    "subtitle" : "gregtech.subtitle.tick.furnace",
+    "category": "block",
+    "sounds": [
+      {
+        "name": "gregtech:heating",
+        "stream": false
+      }
+    ]
+  },
+  "tick.cooling": {
+    "subtitle" : "gregtech.subtitle.tick.cooling",
+    "category": "block",
+    "sounds": [
+      {
+        "name": "gregtech:cooling",
+        "stream": false
+      }
+    ]
+  },
+  "tick.fire": {
+    "subtitle" : "gregtech.subtitle.tick.fire",
+    "category": "block",
+    "sounds": [
+      {
+        "name": "gregtech:fire",
+        "stream": false
+      }
+    ]
+  },
+  "tick.bath": {
+    "subtitle" : "gregtech.subtitle.tick.bath",
+    "category": "block",
+    "sounds": [
+      {
+        "name": "gregtech:bath",
+        "stream": false
+      }
+    ]
+  },
+  "tick.motor": {
+    "subtitle" : "gregtech.subtitle.tick.motor",
+    "category": "block",
+    "sounds": [
+      {
+        "name": "gregtech:motor",
+        "stream": false
+      }
+    ]
+  },
+  "tick.cut": {
+    "subtitle" : "gregtech.subtitle.tick.cut",
+    "category": "block",
+    "sounds": [
+      {
+        "name": "gregtech:cut",
+        "stream": false
+      }
+    ]
+  },
+  "tick.turbine": {
+    "subtitle" : "gregtech.subtitle.tick.turbine",
+    "category": "block",
+    "sounds": [
+      {
+        "name": "gregtech:turbine",
+        "stream": false
+      }
+    ]
+  },
+  "tick.combustion": {
+    "subtitle" : "gregtech.subtitle.tick.combustion",
+    "category": "block",
+    "sounds": [
+      {
+        "name": "gregtech:combustion",
+        "stream": false
+      }
+    ]
+  },
+  "tick.miner": {
+    "subtitle" : "gregtech.subtitle.tick.miner",
+    "category": "block",
+    "sounds": [
+      {
+        "name": "gregtech:miner",
+        "stream": false
+      }
+    ]
+  },
+  "tick.science": {
+    "category": "block",
+    "sounds": [
+      {
+        "name": "gregtech:science",
+        "stream": false
+      }
+    ]
+  },
+  "tick.computation": {
+    "subtitle" : "gregtech.subtitle.tick.computation",
+    "category": "block",
+    "sounds": [
+      {
+        "name": "gregtech:computation",
+        "stream": false
+      }
+    ]
+  },
+  "use.wrench": {
+    "subtitle" : "gregtech.subtitle.use.wrench",
+    "category": "block",
+    "sounds": [
+      {
+        "name": "gregtech:wrench",
+        "stream": false
+      }
+    ]
+  },
+  "use.soft_hammer": {
+    "subtitle" : "gregtech.subtitle.use.soft_hammer",
+    "category": "block",
+    "sounds": [
+      {
+        "name": "gregtech:soft_hammer",
+        "stream": false
+      }
+    ]
+  },
+  "use.drill": {
+    "subtitle" : "gregtech.subtitle.use.drill",
+    "category": "block",
+    "sounds": [
+      {
+        "name": "gregtech:drill",
+        "stream": false
+      }
+    ]
+  },
+  "use.plunger": {
+    "subtitle" : "gregtech.subtitle.use.plunger",
+    "category": "block",
+    "sounds": [
+      {
+        "name": "gregtech:plunger",
+        "stream": false
+      }
+    ]
+  },
+  "use.file": {
+    "subtitle" : "gregtech.subtitle.use.file",
+    "category": "block",
+    "sounds": [
+      {
+        "name": "gregtech:file",
+        "stream": false
+      }
+    ]
+  },
+  "use.saw": {
+    "subtitle" : "gregtech.subtitle.use.saw",
+    "category": "block",
+    "sounds": [
+      {
+        "name": "gregtech:saw",
+        "stream": false
+      }
+    ]
+  },
+  "use.screwdriver": {
+    "subtitle" : "gregtech.subtitle.use.screwdriver",
+    "category": "block",
+    "sounds": [
+      {
+        "name": "gregtech:screwdriver",
+        "stream": false
+      }
+    ]
+  },
+  "use.chainsaw": {
+    "subtitle" : "gregtech.subtitle.use.chainsaw",
+    "category": "block",
+    "sounds": [
+      {
+        "name": "gregtech:chainsaw",
+        "stream": false
+      }
+    ]
+  },
+  "use.wirecutter": {
+    "subtitle" : "gregtech.subtitle.use.wirecutter",
+    "category": "block",
+    "sounds": [
+      {
+        "name": "gregtech:wirecutter",
+        "stream": false
+      }
+    ]
+  },
+  "use.spray_can": {
+    "subtitle" : "gregtech.subtitle.use.spray_can",
+    "category": "block",
+    "sounds": [
+      {
+        "name": "gregtech:spray_can",
+        "stream": false
+      }
+    ]
+  },
+  "use.tricorder": {
+    "subtitle" : "gregtech.subtitle.use.tricorder",
+    "category": "block",
+    "sounds": [
+      {
+        "name": "gregtech:tricorder",
+        "stream": false
+      }
+    ]
+  },
+  "use.mortar": {
+    "subtitle" : "gregtech.subtitle.use.mortar",
+    "category": "block",
+    "sounds": [
+      {
+        "name": "gregtech:mortar",
+        "stream": false
+      }
+    ]
+  },
+  "record.sus": {
+    "subtitle" : "gregtech.subtitle.record.sus",
+    "category": "block",
+    "sounds": [
+      {
+        "name": "gregtech:sus",
+        "stream": true
+      }
+    ]
+  },
+  "entity.portal_opening": {
+    "subtitle" : "gregtech.subtitle.entity.portal_opening",
+    "category": "block",
+      "sounds": [
+        {
+          "name": "gregtech:portal_opening",
+          "stream": false
+        }
+      ]
+    },
+  "entity.portal_closing": {
+    "subtitle" : "gregtech.subtitle.entity.portal_closing",
+    "category": "block",
+    "sounds": [
+      {
+        "name": "gregtech:portal_closing",
+        "stream": false
+      }
+    ]
+  },
+  "maintenance.electrical": {
+    "subtitle" : "gregtech.subtitle.maintenance.electrical",
+    "category" : "block",
+    "sounds" : [
+      {
+        "name" : "gregtech:breakdown_electric",
+        "stream" : false
+      }
+    ]
+  },
+  "maintenance.mechanical": {
+    "subtitle" : "gregtech.subtitle.maintenance.mechanical",
+    "category" : "block",
+    "sounds" : [
+      {
+        "name" : "gregtech:breakdown_mechanical",
+        "stream" : false
+      }
+    ]
+  },
+  "alarm" : {
+    "subtitle" : "gregtech.subtitle.alarm",
+    "category" : "block",
+    "sounds" : [
+      {
+        "name" : "gregtech:alarm",
+        "stream" : false
+      }
+    ]
+  }
+}
