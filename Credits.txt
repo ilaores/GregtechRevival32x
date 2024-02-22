@@ -1,0 +1,5 @@
+Credits:
+
+• Faithful32 Modded - This resource pack was based on the textures for GregTech from Faithful32 Modded. https://www.curseforge.com/minecraft/texture-packs/faithful32-modded
+• Faithful 32x - Some textures from this pack were based on textures from Faithful 32x. https://www.curseforge.com/minecraft/texture-packs/faithful-32x
+• And some textures were from this resource pack. - https://github.com/marisathewitch/Faithful32-GTCEu
