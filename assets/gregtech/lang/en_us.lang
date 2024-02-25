@@ -1,0 +1,111 @@
+# Smooth Stone Blocks
+tile.stone_smooth.black_granite.name=Black Granite
+tile.stone_smooth.red_granite.name=Red Granite
+tile.stone_smooth.marble.name=Marble
+tile.stone_smooth.basalt.name=Basalt
+tile.stone_smooth.concrete_light.name=Claystone
+tile.stone_smooth.concrete_dark.name=Conglomerate
+
+# Cobble Stone Blocks
+tile.stone_cobble.black_granite.name=Black Granite Cobblestone
+tile.stone_cobble.red_granite.name=Red Granite Cobblestone
+tile.stone_cobble.marble.name=Marble Cobblestone
+tile.stone_cobble.basalt.name=Basalt Cobblestone
+tile.stone_cobble.concrete_light.name=Claystone Cobblestone
+tile.stone_cobble.concrete_dark.name=Conglomerate Cobblestone
+
+# Mossy Cobble Stone Blocks
+tile.stone_cobble_mossy.black_granite.name=Mossy Black Granite Cobblestone
+tile.stone_cobble_mossy.red_granite.name=Mossy Red Granite Cobblestone
+tile.stone_cobble_mossy.marble.name=Mossy Marble Cobblestone
+tile.stone_cobble_mossy.basalt.name=Mossy Basalt Cobblestone
+tile.stone_cobble_mossy.concrete_light.name=Mossy Claystone Cobblestone
+tile.stone_cobble_mossy.concrete_dark.name=Mossy Conglomerate Cobblestone
+
+# Chiseled Stone Blocks
+tile.stone_polished.black_granite.name=Polished Black Granite
+tile.stone_polished.red_granite.name=Polished Red Granite
+tile.stone_polished.marble.name=Polished Marble
+tile.stone_polished.basalt.name=Polished Basalt
+tile.stone_polished.concrete_light.name=Polished Claystone
+tile.stone_polished.concrete_dark.name=Polished Conglomerate
+
+# Stone Brick Blocks
+tile.stone_bricks.black_granite.name=Black Granite Bricks
+tile.stone_bricks.red_granite.name=Red Granite Bricks
+tile.stone_bricks.marble.name=Marble Bricks
+tile.stone_bricks.basalt.name=Basalt Bricks
+tile.stone_bricks.concrete_light.name=Claystone Bricks
+tile.stone_bricks.concrete_dark.name=Conglomerate Bricks
+
+# Cracked Stone Brick Blocks
+tile.stone_bricks_cracked.black_granite.name=Cracked Black Granite Bricks
+tile.stone_bricks_cracked.red_granite.name=Cracked Red Granite Bricks
+tile.stone_bricks_cracked.marble.name=Cracked Marble Bricks
+tile.stone_bricks_cracked.basalt.name=Cracked Basalt Bricks
+tile.stone_bricks_cracked.concrete_light.name=Cracked Claystone Bricks
+tile.stone_bricks_cracked.concrete_dark.name=Cracked Conglomerate Bricks
+
+# Mossy Stone Brick Blocks
+tile.stone_bricks_mossy.black_granite.name=Mossy Black Granite Bricks
+tile.stone_bricks_mossy.red_granite.name=Mossy Red Granite Bricks
+tile.stone_bricks_mossy.marble.name=Mossy Marble Bricks
+tile.stone_bricks_mossy.basalt.name=Mossy Basalt Bricks
+tile.stone_bricks_mossy.concrete_light.name=Mossy Claystone Bricks
+tile.stone_bricks_mossy.concrete_dark.name=Mossy Conglomerate Bricks
+
+# Chiseled Stone Blocks
+tile.stone_chiseled.black_granite.name=Chiseled Black Granite A
+tile.stone_chiseled.red_granite.name=Chiseled Red Granite A
+tile.stone_chiseled.marble.name=Chiseled Marble A
+tile.stone_chiseled.basalt.name=Chiseled Basalt A
+tile.stone_chiseled.concrete_light.name=Chiseled Claystone A
+tile.stone_chiseled.concrete_dark.name=Chiseled Conglomerate A
+
+# Tiled Stone Blocks
+tile.stone_tiled.black_granite.name=Black Granite Tiles
+tile.stone_tiled.red_granite.name=Red Granite Tiles
+tile.stone_tiled.marble.name=Marble Tiles
+tile.stone_tiled.basalt.name=Basalt Tiles
+tile.stone_tiled.concrete_light.name=Claystone Tiles
+tile.stone_tiled.concrete_dark.name=Conglomerate Tiles
+
+# Small Tiled Stone Blocks
+tile.stone_tiled_small.black_granite.name=Small Black Granite Tiles
+tile.stone_tiled_small.red_granite.name=Small Red Granite Tiles
+tile.stone_tiled_small.marble.name=Small Marble Tiles
+tile.stone_tiled_small.basalt.name=Small Basalt Tiles
+tile.stone_tiled_small.concrete_light.name=Small Claystone Tiles
+tile.stone_tiled_small.concrete_dark.name=Small Conglomerate Tiles
+
+# Small Stone Brick Blocks
+tile.stone_bricks_small.black_granite.name=Small Black Granite Bricks
+tile.stone_bricks_small.red_granite.name=Small Red Granite Bricks
+tile.stone_bricks_small.marble.name=Small Marble Bricks
+tile.stone_bricks_small.basalt.name=Small Basalt Bricks
+tile.stone_bricks_small.concrete_light.name=Small Claystone Bricks
+tile.stone_bricks_small.concrete_dark.name=Small Conglomerate Bricks
+
+# Stone Bricks Windmill A Blocks
+tile.stone_bricks_windmill_a.black_granite.name=Chiseled Black Granite B
+tile.stone_bricks_windmill_a.red_granite.name=Chiseled Red Granite B
+tile.stone_bricks_windmill_a.marble.name=Chiseled Marble B
+tile.stone_bricks_windmill_a.basalt.name=Chiseled Basalt B
+tile.stone_bricks_windmill_a.concrete_light.name=Chiseled Claystone B
+tile.stone_bricks_windmill_a.concrete_dark.name=Chiseled Conglomerate B
+
+# Stone Bricks Windmill B Blocks
+tile.stone_bricks_windmill_b.black_granite.name=Chiseled Black Granite C
+tile.stone_bricks_windmill_b.red_granite.name=Chiseled Red Granite C
+tile.stone_bricks_windmill_b.marble.name=Chiseled Marble C
+tile.stone_bricks_windmill_b.basalt.name=Chiseled Basalt C
+tile.stone_bricks_windmill_b.concrete_light.name=Chiseled Claystone C
+tile.stone_bricks_windmill_b.concrete_dark.name=Chiseled Conglomerate C
+
+# Square Stone Brick Blocks
+tile.stone_bricks_square.black_granite.name=Square Black Granite Bricks
+tile.stone_bricks_square.red_granite.name=Square Red Granite Bricks
+tile.stone_bricks_square.marble.name=Square Marble Bricks
+tile.stone_bricks_square.basalt.name=Square Basalt Bricks
+tile.stone_bricks_square.concrete_light.name=Square Claystone Bricks
+tile.stone_bricks_square.concrete_dark.name=Square Conglomerate Bricks
