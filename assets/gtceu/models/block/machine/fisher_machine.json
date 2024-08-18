@@ -6,7 +6,8 @@
 		"top": "gtceu:block/casings/voltage/lv/top",
 		"particle": "gtceu:block/casings/voltage/lv/side",
 		"side": "gtceu:block/casings/voltage/lv/side",
-		"screen": "gtceu:block/overlay/machine/overlay_screen"
+		"screen": "gtceu:block/overlay/machine/overlay_screen",
+		"screen_emissive": "gtceu:block/overlay/locker/overlay_locker_000"
 	},
 	"elements": [
 		{
@@ -32,7 +33,7 @@
 			"from": [0, 16, 0],
 			"to": [16, 16, 16],
 			"faces": {
-				"up": {"uv": [0, 0, 16, 16], "texture": "#missing", "cullface": "up"}
+				"up": {"uv": [0, 0, 16, 16], "texture": "#screen_emissive", "cullface": "up"}
 			}
 		}
 	]
